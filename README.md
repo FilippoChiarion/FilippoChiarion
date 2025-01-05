@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Filippo Chiarion
-###Hello! I'm a passionate developer with experience in C, C#, HTML5 and CSS3. I enjoy learning new technologies and am always seeking opportunities to grow and improve. Currently, I'm studying Software Engineering at university and enjoy learning new technologies to expand my skill set.
+### Hello! I'm a passionate developer with experience in C, C#, HTML5 and CSS3. I enjoy learning new technologies and am always seeking opportunities to grow and improve. Currently, I'm studying Software Engineering at university and enjoy learning new technologies to expand my skill set.
 
 ## 📚 Languages and Tools
 - C, C#
